@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fmms-web-demo/precache-manifest.7bce001641f9d2f894897f26d51bead7.js"
+  "/fmms-web-demo/precache-manifest.0b85c9598be5ecbdb0a23d94dfe0812f.js"
 );
 
 workbox.clientsClaim();
